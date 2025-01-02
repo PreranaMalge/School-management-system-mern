@@ -67,7 +67,7 @@ const {
 
 // home
 router.get("/", (req, res) => {
-  res.send("Welcome To EduQuest");
+  res.send("Welcome To");
 });
 
 // Admin

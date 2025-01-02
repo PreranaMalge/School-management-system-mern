@@ -1,4 +1,4 @@
-# Project Name: EduQuest
+# Project Name: School-management-system
 
 <h3 align="center">
 Streamline school management, class organization, and add students and faculty.<br>
@@ -44,7 +44,7 @@ The School Management System is a web-based application built using the MERN (Mo
 # Installation
 
 ```sh
-git clone https://github.com/Harshalkatakiya/school-management-system-MERN-stack.git
+git clone
 ```
 Open 2 terminals in separate windows/tabs.
 
@@ -63,7 +63,7 @@ npm start
 ```
 Now, navigate to `localhost:3000` in your browser.
 
-### Now, EduQuest project will be start automatically in your default browser, but prefer Microsoft Edge for seamless experience.
+### Now,project will be start automatically in your default browser, but prefer Microsoft Edge for seamless experience.
 
 
 ### Admin Login
@@ -98,9 +98,4 @@ You can use the following student login credentials to access the student panel:
 
 2. Open your web browser and access the project by entering the URL, e.g., [http://localhost:3000](http://localhost:3000) 
 
-You have now successfully run the EduQuest project.
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+You have now successfully run the project.
